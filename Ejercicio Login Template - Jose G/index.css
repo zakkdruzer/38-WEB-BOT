@@ -42,6 +42,7 @@ body{
 	text-align: center;
 }
 .boton__enviar{
+	display: flex;
 	justify-content: center;
 }
 .rec_contraseña{
