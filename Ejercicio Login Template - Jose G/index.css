@@ -44,6 +44,11 @@ body{
 .boton__enviar{
 	justify-content: center;
 }
+.rec_contraseña{
+	font-size: en;
+	text-align: center;
+	justify-content: center;
+}
 input{
 	font-size: 12px;
 	width: 70%;	
